@@ -38,21 +38,25 @@ Build Requirements
 ```
 # Build Requirements here
 ```
-
+python 3
 
 How to build
 ------------
 ```
 # instructions here
 ```
-
+No need to build
 
 How to Run
 ----------
 ```
 # instructions here
 ```
+chmod +x first-challenge.py
 
+./first-challenge.py
+
+"Input the string to analyze"
 
 General instructions
 --------------------
