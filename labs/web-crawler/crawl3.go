@@ -55,7 +55,7 @@ func main() {
 	for ; n > 0; n-- {
 		list := <-worklist
 		if depth > 0 {
-			fmt.Println("Depth:", depth)
+			fmt.Println("Depth Level:", depth)
 			depth--
 			for _, link := range list {
 				if !seen[link] {
